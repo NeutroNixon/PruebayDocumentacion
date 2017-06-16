@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SeguridadLeon" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=SeguridadLeon;Integrated Security=True" SettingsObjectName="Proyecto_EVIPRIL.My.MySettings" SettingsPropertyName="ConexionTemporal" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Empleado" Member="Empleado">
+    <Type Name="Empleado">
+      <Column Name="NumIdentidad" Type="System.String" DbType="Char(13) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombres" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Apellidos" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Direccion" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="Char(9)" CanBeNull="true" />
+      <Column Name="FechaNac" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="NumCuenta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdProfesion" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdEstadoCivil" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Empleado_ContratoEmpleado" Member="ContratoEmpleados" ThisKey="NumIdentidad" OtherKey="NumIdentidad" Type="ContratoEmpleado" />
+      <Association Name="EstadoCivil_Empleado" Member="EstadoCivil" ThisKey="IdEstadoCivil" OtherKey="IdEstadoCivil" Type="EstadoCivil" IsForeignKey="true" />
+      <Association Name="Profesion_Empleado" Member="Profesion" ThisKey="IdProfesion" OtherKey="IdProfesion" Type="Profesion" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EstadoCivil" Member="EstadoCivil">
+    <Type Name="EstadoCivil">
+      <Column Name="IdEstadoCivil" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EstadoCivil" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="EstadoCivil_Empleado" Member="Empleado" ThisKey="IdEstadoCivil" OtherKey="IdEstadoCivil" Type="Empleado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Profesion" Member="Profesion">
+    <Type Name="Profesion">
+      <Column Name="IdProfesion" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Profesion" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Profesion_Empleado" Member="Empleado" ThisKey="IdProfesion" OtherKey="IdProfesion" Type="Empleado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Clientes" Member="Clientes">
+    <Type Name="Clientes">
+      <Column Name="IdCliente" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NombreCompañia" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="NombreContacto" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Direccion" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="Char(9)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ContratoEmpleado" Member="ContratoEmpleados">
+    <Type Name="ContratoEmpleado">
+      <Column Name="IdContrato" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FechaInicio" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="FechaFinal" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="IdTipoContrato" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IdBeneficiario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NumIdentidad" Type="System.String" DbType="Char(13) NOT NULL" CanBeNull="false" />
+      <Column Name="IdtipoEmpleado" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Empleado_ContratoEmpleado" Member="Empleado" ThisKey="NumIdentidad" OtherKey="NumIdentidad" Type="Empleado" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

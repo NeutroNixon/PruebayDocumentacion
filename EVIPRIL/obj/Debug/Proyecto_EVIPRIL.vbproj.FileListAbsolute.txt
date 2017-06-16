@@ -1,0 +1,101 @@
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.config
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbprojResolveAssemblyReference.cache
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPrestaciones.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmCliente.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoCliente.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoEmpleado.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmEmpleado.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReporte.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInicioSesion.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReportes.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInventario.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmTipoContrato.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Resources.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPantallaPrincipal.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPlanilla.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Registrar.resources
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbproj.GenerateResource.Cache
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Mirian Ordoñez\Desktop\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.config
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.xml
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.xml
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbprojResolveAssemblyReference.cache
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPrestaciones.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmCliente.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoCliente.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoEmpleado.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmEmpleado.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReporte.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInicioSesion.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReportes.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInventario.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmTipoContrato.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Resources.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPantallaPrincipal.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPlanilla.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Registrar.resources
+C:\Users\mescalante\Documents\Evipril\Evipril\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbproj.GenerateResource.Cache
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.config
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbprojResolveAssemblyReference.cache
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPrestaciones.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmCliente.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoCliente.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoEmpleado.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmEmpleado.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReporte.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInicioSesion.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReportes.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInventario.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmTipoContrato.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Resources.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPantallaPrincipal.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPlanilla.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Registrar.resources
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbproj.GenerateResource.Cache
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.manifest
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.application
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe.manifest
+C:\Users\Mirian Ordoñez\Desktop\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.application
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.config
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbprojResolveAssemblyReference.cache
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPrestaciones.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmCliente.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoCliente.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmContratoEmpleado.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmEmpleado.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReporte.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInicioSesion.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmReportes.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmInventario.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmTipoContrato.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmConfiguracion.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Resources.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPantallaPrincipal.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.FrmPlanilla.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.Registrar.resources
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.vbproj.GenerateResource.Cache
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe.manifest
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.application
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.exe
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.pdb
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\bin\Debug\Proyecto_EVIPRIL.xml
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.exe.manifest
+C:\Users\Nixon Sanchez\Desktop\EVIPRIL\Proyecto_EVIPRIL\Proyecto_EVIPRIL\obj\Debug\Proyecto_EVIPRIL.application
